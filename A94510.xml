@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King, upon His Majesties happy return. By a person of honour.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94510</idno>
+            <idno type="STC">Wing T1496aA</idno>
+            <idno type="STC">ESTC R207837</idno>
+            <idno type="EEBO-CITATION">45097955</idno>
+            <idno type="OCLC">ocm 45097955</idno>
+            <idno type="VID">171529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King, upon His Majesties happy return. By a person of honour.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Henry Herringman, and are to be sold at his shop at the Blue-Anchor in the lower walk of the New-Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Another poem by the same name was written by Edmund Waller. Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171529:1"/>
+            <p>TO THE KING, UPON HIS MAJESTIES Happy Return.</p>
+            <p>By a Perſon of Honour.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.M.</hi> for <hi>Henry Herringman,</hi> and are to be Sold at his Shop at the Blue-<hi>Anchor</hi> in the lower Walk of the New-Exchange, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:171529:2"/>
+            <pb n="1" facs="tcp:171529:2"/>
+            <head>TO THE KING UPON HIS MAJESTIES Happy Return.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>S the Great World at firſt in <hi>Chaos</hi> lay;</l>
+               <l>Then darkneſs yeilded to triumphant day;</l>
+               <l>And all that wilde and undigeſted <hi>Maſs</hi>
+               </l>
+               <l>Did into Form, and to Perfection paſs:</l>
+               <l>So, in our leſſer World, Confuſions were</l>
+               <l>Many, and vaſt, as now our Bleſsings are.</l>
+               <l>Our paſt, and preſent State, fully expreſs</l>
+               <l>All we could bear, and all we would poſſeſs.</l>
+            </lg>
+            <lg>
+               <l>Wonder not that Your Forces could not bring</l>
+               <l>You to Your Crowns, nor us unto our King:</l>
+               <l>Fate made therein this high Deſign appear,</l>
+               <l>Your Sword ſhall rule abroad, Your Virtues here.</l>
+               <l>The leſſer Conqueſt was to You deny'd,</l>
+               <l>That by the greater it might be ſupply'd.</l>
+            </lg>
+            <lg>
+               <l>Nor think it ſtrange that ſome ſo long have ſtrove</l>
+               <l>With that which they did moſt admire and love;</l>
+               <pb n="2" facs="tcp:171529:3"/>
+               <l>Since all againſt their diſſolution pray,</l>
+               <l>Although to Heav'n there is no other way.</l>
+            </lg>
+            <lg>
+               <l>Like to <hi>Betheſdas</hi> Pool, our Common-wealth</l>
+               <l>Till it was troubled, could not give us health:</l>
+               <l>You, as the Angel, did our Waters ſtir,</l>
+               <l>And from that motion we derive our Cure.</l>
+            </lg>
+            <lg>
+               <l>The higheſt Bleſsing God to You does yield,</l>
+               <l>He, His Anoynted, as His Church does build:</l>
+               <l>Nothing of noiſe did to perfection bring</l>
+               <l>The greateſt Temple, and the greateſt King.</l>
+               <l>Alike He builded both, that all might ſee,</l>
+               <l>Your Kingdom, like his Church, ſhall endleſs be.</l>
+            </lg>
+            <lg>
+               <l>As when Great Nature's Fabrick was begun,</l>
+               <l>Expanded Light made day, and not the Sun;</l>
+               <l>But Light diffus'd was to perfection grown,</l>
+               <l>When from one Planet, it contracted, ſhone:</l>
+               <l>So when our Government was form'd to laſt</l>
+               <l>But till the race of a few days was paſt,</l>
+               <l>With Ruling Gifts GOD many did endue,</l>
+               <l>But, now 'tis fix'd, all thoſe are plac'd in You.</l>
+            </lg>
+            <lg>
+               <l>Your Baniſhment, which Your Foes did deſigne</l>
+               <l>To cloud Your Virtues, made them brighter ſhine.</l>
+               <l>Thus Perſecution did but more diſpence</l>
+               <l>Throughout the World the Goſpels influence.</l>
+               <l>Princes, who ſaw Your Sufferings, did eſteem</l>
+               <l>'T was greater to ſubdue ſuch griefs then them;</l>
+               <l>And in that Conqueſt found how they ſhould fare,</l>
+               <l>If they provok'd Your Juſtice to a War.</l>
+               <l>By Your Return, and by Your Foes purſuit,</l>
+               <l>
+                  <hi>Europe</hi> Your Bloſſomes had, but we Your Fruit.</l>
+            </lg>
+            <lg>
+               <l>Our Senate does not for Conditions ſue;</l>
+               <l>We know we have our <hi>All,</hi> in having You:</l>
+               <pb n="3" facs="tcp:171529:3"/>
+               <l>Your Mercy with our Crimes does nobly ſtrive;</l>
+               <l>And, e're we ask forgiveneſs, You forgive.</l>
+               <l>Your Subjects thus doubly You now ſubdue,</l>
+               <l>Both in the Manner, and the Action too.</l>
+            </lg>
+            <lg>
+               <l>Your great Reception in our neighb'ring State,</l>
+               <l>Proves that on You depends their Countries fate:</l>
+               <l>Your dreadful Fleet does on their Coaſt appear,</l>
+               <l>Yet to their Joy, they yeild up all their Fear;</l>
+               <l>For knowing You, they know Heav'n has reſign'd</l>
+               <l>A Pow'r unbounded to a bounded Mind.</l>
+            </lg>
+            <lg>
+               <l>Triumphant Navy! Formerly your Fraight</l>
+               <l>Conſiſted but of Laurel, or of Plate;</l>
+               <l>But to your happy Country now you bring</l>
+               <l>More then both Indies in our Matchleſs KING.</l>
+            </lg>
+            <lg>
+               <l>Twice has the World been truſted in a Barque;</l>
+               <l>The New, the <hi>Charles</hi> contain'd, the Old, the Ark;</l>
+               <l>This bore but thoſe who did the World re-build,</l>
+               <l>But that bore You, to whom that World muſt yeild.</l>
+            </lg>
+            <lg>
+               <l>The ſpacious Sea, which does the Earth embrace,</l>
+               <l>Ne're held ſo many Princes in one Place;</l>
+               <l>Princes, whoſe Father ſtill the Trident bore,</l>
+               <l>As ſhall their Sons, till Time ſhall be no more.</l>
+            </lg>
+            <lg>
+               <l>Now whilſt the Sea, Your greateſt Subject, moves</l>
+               <l>Slowly, as loth to part with what he loves;</l>
+               <l>And whilſt Your Sails the calmed Air ſubdue;</l>
+               <l>(For which he chides the Winds, and thanks them too)</l>
+               <l>I might preſent You with a Proſpect here,</l>
+               <l>Of that vaſt Empire to which now You Steere.</l>
+            </lg>
+            <lg>
+               <l>But on that Theam my Numbers cannot ſtay;</l>
+               <l>Copies to their Originals give way;</l>
+               <l>For now Your Fleet ſees Land, which many a peal</l>
+               <l>Of thund'ring Cannon to the Shore does tell:</l>
+               <pb n="4" facs="tcp:171529:4"/>
+               <l>And now Your raviſh'd Subjects ſee Your Fleet,</l>
+               <l>Which they with ſhouts, louder then Cannon, greet:</l>
+               <l>Two Suns at once our fights now entertain;</l>
+               <l>One ſhines from Heav'n, the other from the Main.</l>
+               <l>All Loyal Eyes are now fixt on the Eaſt,</l>
+               <l>For You, more welcome then that daily Gueſt;</l>
+               <l>While on the Shore Your longing Subjects ſtand,</l>
+               <l>Subjects, as numberleſs as is the Sand;</l>
+               <l>Subjects ſufficient, if but led by You,</l>
+               <l>All Countries You have liv'd in, to ſubdue.</l>
+            </lg>
+            <lg>
+               <l>In Raptures now We our great Gen'ral ſee,</l>
+               <l>Move faſter to meet You then Victorie:</l>
+               <l>He at Your Feet himſelf does proſtrate now,</l>
+               <l>To whom vaſt Fleets and Armies us'd to bow;</l>
+               <l>And greater Satisfaction does expreſs</l>
+               <l>In This Submiſsion, then in That Succeſs.</l>
+               <l>Your Royal Armes inwreath Him, which he more</l>
+               <l>Does prize, then all thoſe Laurel Wreaths He wore.</l>
+            </lg>
+            <lg>
+               <l>Now all for His Victorious Troops make room,</l>
+               <l>Which never but by Joy were overcome:</l>
+               <l>Loud ſhouts to Heav'n for Your Return they ſend,</l>
+               <l>Whilſt low as Earth their dreaded Enſigns bend;</l>
+               <l>He leads them ſtill to what exalts their Name;</l>
+               <l>Now to their Duty, as before to Fame.</l>
+            </lg>
+            <lg>
+               <l>Their Miſ-led Courage, in a fatal Time,</l>
+               <l>Had been too long their Glory, and their Crime.</l>
+               <l>Now they are truly Great, now truly live,</l>
+               <l>Since this You Praiſe, and that You do forgive.</l>
+               <l>Thoſe, who ſo long could keep You from Your due,</l>
+               <l>What can reſiſt, now they are led by You?</l>
+               <l>Your Great Example will their Model prove;</l>
+               <l>Perſwading ſoon, and willingly, as love.</l>
+               <pb n="5" facs="tcp:171529:4"/>
+               <l>Such Fleets, and Armies, and our <hi>CHARLES</hi> their Head,</l>
+               <l>Are Things which all the Univerſe may dread.</l>
+            </lg>
+            <lg>
+               <l>And now You move, and now in all the Waies,</l>
+               <l>Thick Clouds of Subjects, Clouds of Duſt do raiſe;</l>
+               <l>Through which the Worlds chief City now You ſee,</l>
+               <l>Great in Extent, greater in Loyalty;</l>
+               <l>Their Cannon ſpeaks, their Streets the Souldiers line,</l>
+               <l>And brighteſt Beauties from their Windows ſhine:</l>
+               <l>Your Subjects Earthly <hi>Jove</hi> You now are grown;</l>
+               <l>Thunder and Light'ning guard You to Your Throne.</l>
+            </lg>
+            <lg>
+               <l>Thus You Tryumph, whilſt at Your Palace Gates</l>
+               <l>The higheſt earthly Senate for You waits:</l>
+               <l>One Roof contains thoſe which our Laws do make,</l>
+               <l>And Him from whom the World their Laws muſt take:</l>
+               <l>Their Knees do homage, whilſt their Tongues confeſs,</l>
+               <l>They in their Duty find their Happineſs;</l>
+               <l>And Fame aloud, through ev'ry Region, ſings,</l>
+               <l>They are the beſt of Subjects, You, of Kings.</l>
+            </lg>
+            <lg>
+               <l>The Royal Throne ſo fully You Adorn,</l>
+               <l>That now all praiſe, what ſome before did Scorn:</l>
+               <l>A Throne which now the envious do confeſs,</l>
+               <l>Our Safety urg'd Your Merit to Poſſeſs.</l>
+            </lg>
+            <lg>
+               <l>Where <hi>Caeſar</hi> could no further Glory win,</l>
+               <l>There is the <hi>Scene,</hi> where Yours does but begin;</l>
+               <l>By which indulgent Fate would have it known,</l>
+               <l>Though his Succeſs had end, Yours ſhould have none:</l>
+               <l>Or elſe that nothing worthy was of You,</l>
+               <l>But what Great <hi>Julius</hi> wanted Pow'r to do.</l>
+            </lg>
+            <lg>
+               <l>Our fierce Diviſions made our Courage known,</l>
+               <l>But more Your Wiſdome ſhines, that makes us One;</l>
+               <l>Which has ſo fram'd Your Empire to endure,</l>
+               <l>We need but prudent Foes to be ſecure.</l>
+               <pb n="6" facs="tcp:171529:5"/>
+               <l>You might poſſeſs by Armies, and by Fleets,</l>
+               <l>All where the Sun doth riſe, or where he ſets;</l>
+               <l>But You a nobler Conqueſt have deſign'd,</l>
+               <l>The placing Limits to Your greater Minde:</l>
+               <l>And may thoſe higheſt Titles never ceaſe,</l>
+               <l>
+                  <hi>A King of Greateſt Pow'r, and Greateſt Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Of Suff'rings paſt let us no more complain,</l>
+               <l>Since You by them with greater Glory Reign;</l>
+               <l>Till that we ſaw, Your Subjects could not gueſs,</l>
+               <l>Heav'n had for them a Bleſsing above Peace.</l>
+            </lg>
+            <lg>
+               <l>Nor can we tell which moſt in You to own,</l>
+               <l>Either Your Virtues, or Extraction.</l>
+               <l>Though never any was ſo Great, and Good;</l>
+               <l>It ſprings from Martyrs, as from Royal Blood:</l>
+               <l>But Your own Glories do ſo brightly ſhine,</l>
+               <l>You need not borrow Luſter from Your Line.</l>
+               <l>Yet we muſt ſay, ſince juſtly but Your due,</l>
+               <l>Though You our Glories raiſe, they raiſe no You:</l>
+               <l>Like to the Royal Bird, which climbes the Skies,</l>
+               <l>You leſſer ſeem, ſtill as You higher riſe.</l>
+               <l>Your ſelf You limit to a Triple Throne,</l>
+               <l>And all mens Wonder are, except Your own.</l>
+            </lg>
+            <lg>
+               <l>Now Sacred Peace and Juſtice ceaſe to mourn,</l>
+               <l>And both in You again to us return.</l>
+               <l>Religion now ſhall flouriſh with Your Crown,</l>
+               <l>And the fierce Sword yeild to the peaceful Gown.</l>
+               <l>The Muſes too ſo highly You eſteem,</l>
+               <l>That You are both their Influence and their Theam.</l>
+            </lg>
+            <pb facs="tcp:171529:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
